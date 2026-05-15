@@ -76,16 +76,5 @@ MERN-BookStore aims to provide an efficient and user-friendly platform for manag
 - Enhance the user interface and add features like book previews, wishlists, and social sharing.
 - Enable integration with external APIs for book data and reviews.
 
-## Contributing
 
-Contributions to the MERN-BookStore are welcome! Please follow these steps:
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch for your feature or fix.
-3. 🛠️ Make your changes and commit them.
-4. 🚀 Push your changes to your fork.
-5. 🔄 Create a pull request to the main repository.
-
-Contributions and feedback are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue. Please follow the contribution guidelines.
-
-👨‍💻 **Author**: Nishant (@nishant219)
